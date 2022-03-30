@@ -141,6 +141,5 @@ int main()
 
 	cout << A->getMadeString();
 
-
 	return 0;
 }
