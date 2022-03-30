@@ -125,7 +125,6 @@ private:
 };
 
 
-
 int main()
 {
 	TheaterOwner* A = new TheaterOwner();
